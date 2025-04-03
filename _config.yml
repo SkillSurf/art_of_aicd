@@ -1,4 +1,4 @@
-title: Art of Analog IC Design
+title: Art of Analog IC Design Workshop
 description: The Art of Analog IC Design Free One-Day Workshop
 
 theme: just-the-docs
@@ -6,7 +6,7 @@ theme: just-the-docs
 url: https://skillsurf.github.io/art_of_aicd/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  SkillSurf Homepage: https://www.skillsurf.lk/
 
 collections:
   training:
@@ -16,7 +16,7 @@ collections:
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Copyright &copy; 2024 IEEE CASS"
+footer_content: "Copyright &copy; 2025 SkillSurf"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -39,7 +39,7 @@ compress_html:
 #   syntax_highlighter_opts:
 #     block:
 #       line_numbers: true
-color_scheme: light
+color_scheme: dark
 callouts:
   warning:
     title: Warning
