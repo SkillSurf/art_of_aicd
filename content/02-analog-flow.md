@@ -6,3 +6,5 @@ has_children: true
 nav_order: 2
 ---
 # Analog design flow with opensource tools
+
+![image info](./images/aicd_flow.png)

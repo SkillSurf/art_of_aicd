@@ -1,5 +1,5 @@
 title: Art of Analog IC Design Workshop
-description: The Art of Analog IC Design Free One-Day Workshop
+description: The Art of Analog IC Design Free One Day Workshop organized by SkillSurf.
 
 theme: just-the-docs
 
@@ -39,7 +39,9 @@ compress_html:
 #   syntax_highlighter_opts:
 #     block:
 #       line_numbers: true
+
 color_scheme: dark
+
 callouts:
   warning:
     title: Warning
