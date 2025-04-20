@@ -1,5 +1,5 @@
 ---
-title: Inverter design using OSIC tools
+title: Inverter Design Flow
 layout: default
 has_toc: true
 has_children: true

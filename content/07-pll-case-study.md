@@ -1,5 +1,5 @@
 ---
-title: Case Study
+title: PLL Case Study
 layout: default
 has_toc: true
 has_children: true
