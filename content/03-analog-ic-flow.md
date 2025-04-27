@@ -16,7 +16,7 @@ Making an analog IC in a silicon chip isn't just a complex process, It's an art 
   </a>
 </p>
 
-From now on, we will guide you through these topics to get a more fundamental and overall idea about Analog Intergrated Circuit Design flow.
+From now on, we will guide you through these topics to get a more fundamental and overall idea about Analog Integrated Circuit Design flow. This section is divided into three sub-sections. The first subsection provides a quick glimpse into the CMOS analog flow, followed by a description of OSIC- tools used in this field in subsection two. The third section is dedicated to providing a detailed guide for setting up your environment for future work.
 
 
 
