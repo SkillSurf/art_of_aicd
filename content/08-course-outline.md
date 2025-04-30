@@ -41,3 +41,8 @@ The Analog IC Design, Simulation, and Chip Fabrication bootcamp provides an imme
     - Complete a full analog IC design project from schematic design through post-layout simulation, preparing the design for fabrication submission to a multi-project wafer (MPW) service.
 - **Demonstrate Practical Understanding of Fabrication and Packaging:**
     - Understand CMOS fabrication processes, chip packaging techniques, and integrate test plans with PCB interfacing for final taped-out ICs.
+
+<figure>
+  <img src="./images/flyer.jpg" alt="CMOS Analog IC Design and Simulation" width="500">
+  <figcaption><em>Figure 8.1.1: CMOS Analog IC Design and Simulation.</em></figcaption>
+</figure>
