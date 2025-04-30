@@ -12,7 +12,7 @@ Analog IC design is a multi-stage process that transforms a conceptual circuit i
 Making an analog IC in a silicon chip isn't just a complex process, It's an art of precision. This short video will give you an overall idea of the complexity of an analog IC. Just observe that this is from the perspective of an electron microscope.  
 <p align="center">
   <a href="https://youtu.be/Fxv3JoS1uY8?si=8XCrFI3VV1NxdN52" target="_blank">
-    <img src="https://img.youtube.com/vi/Fxv3JoS1uY8/0.jpg" alt="Watch the video" width="320"/>
+    <img src="https://img.youtube.com/vi/Fxv3JoS1uY8/0.jpg" alt="Watch the video" width="620"/>
   </a>
 </p>
 

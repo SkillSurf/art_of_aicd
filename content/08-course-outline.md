@@ -43,6 +43,6 @@ The Analog IC Design, Simulation, and Chip Fabrication bootcamp provides an imme
     - Understand CMOS fabrication processes, chip packaging techniques, and integrate test plans with PCB interfacing for final taped-out ICs.
 
 <figure>
-  <img src="./images/flyer.jpg" alt="CMOS Analog IC Design and Simulation" width="500">
+  <img src="./images/flyer.jpg" alt="CMOS Analog IC Design and Simulation" width="620">
   <figcaption><em>Figure 8.1.1: CMOS Analog IC Design and Simulation.</em></figcaption>
 </figure>
