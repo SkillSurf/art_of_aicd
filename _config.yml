@@ -40,6 +40,8 @@ compress_html:
 #     block:
 #       line_numbers: true
 
+math: katex
+
 color_scheme: dark
 
 callouts:
