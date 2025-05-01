@@ -63,5 +63,3 @@ callouts:
     color: grey-dk
   command:
     co
-
-  math: katex
