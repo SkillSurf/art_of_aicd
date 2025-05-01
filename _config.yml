@@ -62,4 +62,4 @@ callouts:
     title: Lecture Video
     color: grey-dk
   command:
-    co
+    color: green
