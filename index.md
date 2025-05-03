@@ -6,8 +6,9 @@ has_children: false
 nav_order: 0
 ---
 
-The Art of Analog CMOS IC Design Workshop is your gateway to mastering the fundamentals of analog circuit design, simulation, and layout. Whether you’re a student, researcher, or industry professional, this workshop provides hands-on experience with real-world applications. No prior experience in IC design is required—just a passion for electronics and a desire to explore the world of semiconductor technology.
-By the end of this workshop, you’ll have the skills to design, simulate, and layout analog circuits using open source, setting you on the path to becoming a skilled IC designer.
+The Art of Analog CMOS IC Design Workshop is your gateway to mastering the fundamentals of analog circuit design, simulation, and layout. Whether you’re a student, researcher, or industry professional, this workshop provides hands-on experience with real-world applications. No prior experience in IC design is required—just a passion for electronics and a desire to explore the world of semiconductor technology. By the end of this workshop, you’ll have the skills to design, simulate, and layout analog circuits using open source, setting you on the path to becoming a skilled IC designer.
+
+The workshop will cover the fundamentals of Analog IC Design, Simulation, and Layout, organized by alumni of the Department of Electronic & Telecommunication Engineering, University of Moratuwa together with Skill Surf.
 
 1. Morning Session (10 am to 12.30 pm)
 - Welcome Speech (Dr. Thayaparan (HoD)) - 5-10 mins
@@ -22,8 +23,8 @@ By the end of this workshop, you’ll have the skills to design, simulate, and l
 2. Afternoon Session (1.30 pm to 4.00 pm)
 - Design, simulate, layout and post-layout an Inverter using OSIC tools
 - CMOS Process and Technology - how do we manufacture micro-circuits on Silicon
-- What are oscillators and phase-locked loops (PLLs), and why do we need them?
-- How to design, simulate and layout a phase-locked loop
-- Measurement Demo
-- Course Outline (Kithmin)
+- What are Oscillators and phase-locked loops (PLLs), and why do we need them?
+- How to design, simulate and layout a Phase-locked Loop (PLL)
+- Measurement Demo using AD3 and Tiny Tapeout 7
+- Course Outline
 

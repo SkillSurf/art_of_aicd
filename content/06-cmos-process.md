@@ -14,7 +14,7 @@ Manufacturing of an IC involves hundreds of steps and can take upto 3-6 months. 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=NrpBc5NssvQ&t=14s" target="_blank">
-    <img src="https://img.youtube.com/vi/NrpBc5NssvQ/sddefault.jpg" alt="Inside the cleanroom How Microchips are made - IHP" width="500"  height="400"/>
+    <img src="https://img.youtube.com/vi/NrpBc5NssvQ/sddefault.jpg" alt="Inside the cleanroom How Microchips are made - IHP" width="400"/>
   </a>
 </p>
 

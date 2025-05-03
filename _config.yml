@@ -40,8 +40,6 @@ compress_html:
 #     block:
 #       line_numbers: true
 
-math: katex
-
 color_scheme: dark
 
 callouts:
@@ -65,5 +63,8 @@ callouts:
     color: grey-dk
   command:
     color: green
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dfadf6201e1296d1885731789a17870d223dcb85
