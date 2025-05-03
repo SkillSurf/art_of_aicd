@@ -29,6 +29,6 @@ The workshop will cover the fundamentals of Analog IC Design, Simulation, and La
     - Course Outline of ""
 
 <div align="center">
-  <img src="content/images/Workshop_Flyer.png" alt="Flyer" width="400" height="400"/>
+  <img src="content/images/Workshop_Flyer.png" alt="Flyer" width="620">
   <p><em>Figure: Workshop Flyer</em></p>
 </div>
