@@ -11,7 +11,7 @@ The Art of Analog CMOS IC Design Workshop is your gateway to mastering the funda
 The workshop will cover the fundamentals of Analog IC Design, Simulation, and Layout, and is organized by alumni of the Department of Electronic & Telecommunication Engineering, University of Moratuwa together with Skill Surf.
 
 1. Morning Session (10 am to 12.30 pm)
-    - Welcome Speech (Dr. Thayaparan (HoD)) - 5-10 mins
+    - Welcome Speech by Dr. Subramaniam Thayaparan
     - Awareness for CASS CEDA SL by Mr. Kavinga Upul Ekanayaka
     - “Unlocking Sri Lanka's Potential in the Integrated Circuit Industry: Opportunities, Challenges, and the Role of Policy in Driving Semiconductor Innovation” by Dr. Shan
     - Why should you choose a career in IC design? Keynote Speech by Dr. Nilan Udayanga
@@ -29,6 +29,6 @@ The workshop will cover the fundamentals of Analog IC Design, Simulation, and La
     - Course Outline of ""
 
 <div align="center">
-  <img src="/images/Workshop_Flyer.png" alt="Flyer" width="400" height="400"/>
+  <img src="content/images/Workshop_Flyer.png" alt="Flyer" width="400" height="400"/>
   <p><em>Figure: Workshop Flyer</em></p>
 </div>
