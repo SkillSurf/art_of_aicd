@@ -26,7 +26,7 @@ The workshop will cover the fundamentals of Analog IC Design, Simulation, and La
     - What are Oscillators and phase-locked loops (PLLs), and why do we need them?
     - How to design, simulate and layout a Phase-locked Loop (PLL)
     - Measurement Demo using AD3 and Tiny Tapeout 7
-    - Course Outline of "CMOS Analog IC Design and Simulation".
+    - Course Outline of "CMOS Analog IC Design and Simulation"
 
 <div align="center">
   <img src="content/images/Workshop_Flyer.png" alt="Flyer" width="620">
