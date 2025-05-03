@@ -12,12 +12,12 @@ The workshop will cover the fundamentals of Analog IC Design, Simulation, and La
 
 1. Morning Session (10 am to 12.30 pm)
     - Welcome Speech by Dr. Subramaniam Thayaparan
-    - Awareness for CASS CEDA SL by Mr. Kavinga Upul Ekanayaka
+    - Awareness Session for CASS CEDA SL Chapter by Mr. Kavinga Upul Ekanayaka
     - “Unlocking Sri Lanka's Potential in the Integrated Circuit Industry: Opportunities, Challenges, and the Role of Policy in Driving Semiconductor Innovation” by Dr. Shan Jayasinghe
-    - Why should you choose a career in IC design? Keynote Speech by Dr. Nilan Udayanga
+    - "Why should you choose a career in IC design?" Keynote Speech by Dr. Nilan Udayanga
     - The basic model of the MOSFET and how to build an inverter out of MOSFETs
-    - Introduction to Inverter and the Analog IC Design flow
-    - How to set up OSIC tools and work with IHSP SG13G2 PDK using Docker
+    - Introduction to the Inverter Analog IC Design flow
+    - How to set up IIC-OSIC tools
     - Working with IHP SG13G2 PDK using Docker
 
 2. Afternoon Session (1.30 pm to 4.00 pm)
@@ -26,7 +26,7 @@ The workshop will cover the fundamentals of Analog IC Design, Simulation, and La
     - What are Oscillators and phase-locked loops (PLLs), and why do we need them?
     - How to design, simulate and layout a Phase-locked Loop (PLL)
     - Measurement Demo using AD3 and Tiny Tapeout 7
-    - Course Outline of ""
+    - Course Outline of "CMOS Analog IC Design and Simulation".
 
 <div align="center">
   <img src="content/images/Workshop_Flyer.png" alt="Flyer" width="620">
