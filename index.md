@@ -14,7 +14,7 @@ The recordings of the morning and evening session of the workshop can be found b
 
 <br>
 
-<p align="center">
+<!--p align="center">
   <a href="https://www.youtube.com/watch?v=yN5dJGQQT6M" target="_blank">
     <img src="https://img.youtube.com/vi/yN5dJGQQT6M/0.jpg" alt="Watch the video" width="620"/>
   </a>
@@ -26,6 +26,6 @@ The recordings of the morning and evening session of the workshop can be found b
   <a href="https://www.youtube.com/watch?v=oehmeYVQX0Q" target="_blank">
     <img src="https://img.youtube.com/vi/oehmeYVQX0Q/0.jpg" alt="Watch the video" width="620"/>
   </a>
-</p>
+</p-->
 
 <br>
