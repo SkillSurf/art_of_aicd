@@ -16,7 +16,7 @@ The IHP Open Source PDK allows students and researchers to design and test inver
 
 By using free and open source tools like Xschem, ngspice, and KLayout, students can go through the full design process—from creating the circuit and running simulations to drawing the physical layout and checking design rules. This hands-on experience is very similar to what engineers do in the semiconductor industry.
 
-<figure>
-  <img src="./images/inverter_design/inverter.png" alt="inverter schemetic" width="500">
+<div align="center">
+  <img src="./images/inverter_design/inverter.png" alt="inverter schemetic" width="300">
   <figcaption><em>Figure 5.1: Inverter schemetic.</em></figcaption>
-</figure>
+</div>
