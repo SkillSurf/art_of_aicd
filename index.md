@@ -14,7 +14,7 @@ The workshop will cover the fundamentals of Analog IC Design, Simulation, and La
     - Welcome Speech by Dr. Subramaniam Thayaparan
     - Awareness Session for CASS CEDA SL Chapter by Mr. Kavinga Upul Ekanayaka
     - “Unlocking Sri Lanka's Potential in the Integrated Circuit Industry: Opportunities, Challenges, and the Role of Policy in Driving Semiconductor Innovation” by Dr. Shan Jayasinghe
-    - "Why should you choose a career in IC design?" Keynote Speech by Dr. Nilan Udayanga
+    - "The Heart of Innovation: Choosing a Career in Analog IC Design" Keynote Speech by Dr. Nilan Udayanga
     - The basic model of the MOSFET and how to build an inverter out of MOSFETs
     - Introduction to the Inverter Analog IC Design flow
     - How to set up IIC-OSIC tools
@@ -30,5 +30,4 @@ The workshop will cover the fundamentals of Analog IC Design, Simulation, and La
 
 <div align="center">
   <img src="content/images/Workshop_Flyer.png" alt="Flyer" width="620">
-  <p><em>Figure: Workshop Flyer</em></p>
-</div>
+  <p><em>Figure: Workshop Fly
